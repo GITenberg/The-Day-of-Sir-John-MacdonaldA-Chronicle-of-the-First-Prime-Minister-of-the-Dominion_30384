@@ -1,0 +1,29 @@
+_repo: The-Day-of-Sir-John-MacdonaldA-Chronicle-of-the-First-Prime-Minister-of-the-Dominion_30384
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pope, Joseph, Sir
+    birthdate: 1854
+    deathdate: 1926
+    gutenberg_agent_id: '34573'
+    url: http://www.gutenberg.org/2009/agents/34573
+description: ''
+gutenberg_issued: '2009-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30384'
+  lccn: '15018984'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Macdonald, John Alexander, Sir, 1815-1891'
+- !lcc 'F1001'
+title: 'The Day of Sir John Macdonald
+
+  A Chronicle of the First Prime Minister of the Dominion'
+url: http://www.gutenberg.org/ebooks/30384
