@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34573'
     url: http://www.gutenberg.org/2009/agents/34573
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30384#The-Day-of-Sir-John-MacdonaldA-Chronicle-of-the-First-Prime-Minister-of-the-Dominion
 gutenberg_issued: '2009-11-01'
 gutenberg_type: Text
 identifiers:
